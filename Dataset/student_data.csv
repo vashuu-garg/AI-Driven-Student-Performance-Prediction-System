@@ -1,0 +1,11 @@
+gender,study_hours,attendance,previous_score,assignments_completed,sleep_hours,internet_access,extracurricular,final_score
+Male,5,85,78,9,7,Yes,Yes,82
+Female,6,90,85,10,8,Yes,Yes,90
+Male,2,60,55,5,6,No,No,58
+Female,8,95,92,10,7,Yes,Yes,96
+Male,4,75,70,8,6,Yes,No,74
+Female,3,65,60,6,8,No,Yes,65
+Male,7,88,82,9,7,Yes,Yes,87
+Female,5,80,76,8,7,Yes,No,79
+Male,1,50,45,4,5,No,No,48
+Female,9,98,95,10,8,Yes,Yes,98
