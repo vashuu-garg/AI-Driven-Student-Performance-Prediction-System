@@ -72,12 +72,11 @@ The model was trained using student performance features to predict final scores
 
 
 ### Model Evaluation
-
-(Add accuracy/metric screenshot here)
-
 Evaluation metrics used:
 - R2 Score
 - Mean Absolute Error (MAE)
+- <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/be6d1ea5-b9ef-4fac-bc15-2ac6c6647732" />
+
 
 ## Streamlit Web Application
 
