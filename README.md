@@ -83,7 +83,7 @@ Evaluation metrics used:
 The trained Machine Learning model is integrated into a Streamlit web application for real-time prediction.
 
 ### Live Application Link:
-Paste your Streamlit deployment link here
+https://ai-driven-student-performance-prediction-system-9kkmk4h7xfsxoc.streamlit.app/
 
 ## Prediction Results
 
